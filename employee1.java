@@ -1,2 +1,2 @@
-just for testing purpoer i am creating this folde
+just for testing purpose i am creating this folder
 This is the newly added line
